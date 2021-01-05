@@ -1,9 +1,10 @@
 # Online Teams Bot
 ### *A bot that uses Selenium, Chrome and Python to run your MS Teams lessons for you.*
+### ***DISCLAIMER**: I do not endorse, and have not myself made use of this to attend online classes.*
 
 ## Features:
 * It can take your online Microsoft Teams lessons for you.
-* It can send repoerts every lesson via a Discord Webhook.
+* It can send reports every lesson via a Discord Webhook.
 
 ## Setup:
 1. Add your credentials into the `credentials` dictionary.
